@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+pydantic
+pydantic-settings
+openai
+chromadb
+numpy
+python-multipart
+PyPDF2
+pdfplumber
+python-docx
+beautifulsoup4
+typing-extensions
