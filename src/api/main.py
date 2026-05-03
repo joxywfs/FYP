@@ -16,7 +16,7 @@ from ..core.database import VectorDatabase
 from ..core.embeddings import EmbeddingService
 from ..core.retrieval import RetrievalEngine
 from ..utils.preprocessing import DocumentProcessor
-from ..evaluation.complete_evaluation import ComprehensiveEvaluator
+# from ..evaluation.complete_evaluation import ComprehensiveEvaluator
 from ..models.schemas import (
     SearchRequest, SearchResponse, SearchResultResponse,
     DocumentUploadRequest, UploadResponse, DocumentResponse,
