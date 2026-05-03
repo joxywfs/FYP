@@ -37,6 +37,7 @@ The demo currently supports:
 
 ## Project Setup
 This project was run using **VS Code**.
+Please have .env ready with API key inside for this code to run properly.
 
 ### 1. Create and activate a virtual environment
 ```powershell
